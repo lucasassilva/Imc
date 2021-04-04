@@ -1,4 +1,4 @@
-# imc_app
+# Imc
 
 A new Flutter application.
 
